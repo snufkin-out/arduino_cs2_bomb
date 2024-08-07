@@ -1,3 +1,18 @@
+/*
+WIRING:
+
+- Display
+  - GND
+    - GROUND
+  - VCC
+    - 5V / 3V
+  - SCK
+    - A5
+  - SDA
+    - A4
+*/
+
+
 #include <Wire.h>
 #include <Adafruit_GFX.h>
 #include <Adafruit_SSD1306.h>
